@@ -1,0 +1,2 @@
+# ai-ses-isleme-araclari
+Bu proje, Hugging Face Transformers kütüphanesinde bulunan son teknoloji ürünü (SOTA) ses modellerini kullanarak metinden ses sentezleme (TTS), ses dosyalarından metin transkripsiyonu ve sesli tercüme yapabilen kullanıcı dostu bir web uygulaması sunmayı amaçlamaktadır. Tüm işlemler, modellerin yerel olarak çalıştırılması (veya ilk kullanımda indirilmesi) prensibine dayanır.

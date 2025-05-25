@@ -1,4 +1,6 @@
 
+
+
 ## Dosya : deneme2.py (Hugging Face Modelleri ile Ses İşleme)
 
 Bu dosya, Hugging Face Transformers kütüphanesindeki modelleri kullanarak (ilk çalıştırmada modelleri indirerek) ses işleme görevlerini gerçekleştiren bir Streamlit uygulamasıdır.
@@ -243,13 +245,6 @@ Bu proje, kullanıcıların .ts (Transport Stream) formatındaki video/ses dosya
   ```
   
 
-IGNORE_WHEN_COPYING_START
-
-content_copy download
-
-Use code [with caution](https://support.google.com/legal/answer/13505487). Bash
-
-IGNORE_WHEN_COPYING_END
 
 4. **Uygulamanın Çalıştırılması:**  
   Terminalde, format_Donustur.py dosyasının bulunduğu dizindeyken aşağıdaki komutu çalıştırın:
@@ -259,13 +254,6 @@ IGNORE_WHEN_COPYING_END
   ```
   
 
-IGNORE_WHEN_COPYING_START
-
-content_copy download
-
-Use code [with caution](https://support.google.com/legal/answer/13505487). Bash
-
-IGNORE_WHEN_COPYING_END
 
 Bu komut, Streamlit uygulamasını başlatacak ve varsayılan web tarayıcınızda genellikle http://localhost:8501 adresinde açacaktır. Eğer FFmpeg kurulu değilse, uygulama açıldığında bir hata mesajı gösterecektir.
 

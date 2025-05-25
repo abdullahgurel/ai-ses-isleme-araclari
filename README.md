@@ -1,4 +1,3 @@
----
 
 ## Dosya : deneme2.py (Hugging Face Modelleri ile Ses İşleme)
 
